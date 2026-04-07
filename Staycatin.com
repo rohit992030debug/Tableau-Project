@@ -13,8 +13,6 @@ This project focuses on analyzing staycation booking data to uncover insights in
 
 The goal is to help stakeholders make data-driven decisions related to pricing strategies, occupancy optimization, and customer preferences.
 
----
-
 ## 📊 Dashboard Features
 - 📈 Earnings analysis across different cities  
 - 🏠 Property type performance (Apartment, Villa, Cabin, etc.)  
@@ -23,17 +21,12 @@ The goal is to help stakeholders make data-driven decisions related to pricing s
 - ⭐ Price vs Reviews trend visualization  
 - 🔍 Dynamic filters (City, Listing ID, Room Type, Month)  
 
----
-
 ## 🧰 Tech Stack   
 - **Tableau** –  Dashboard creation & visualization 
 - **Excel** – Data preparation and transformation  
 
----
-
 ## 📷 Dashboard Preview
-<img width="857" height="497" alt="{00729CAD-E216-427C-9834-93BFDE7F8F0D}" src="https://github.com/user-attachments/assets/f3124003-fbb2-4551-bdfe-b369dfee8b1d" />
-
+https://github.com/rohit992030debug/Tableau-Project/blob/main/Staycatin%20Dashboard%20%20Rohit.pdf
 
 ## 🔍 Key Insights
 - High-priced listings do not always generate higher earnings  
@@ -41,4 +34,3 @@ The goal is to help stakeholders make data-driven decisions related to pricing s
 - Entire home/apartment listings dominate earnings  
 - Reviews and pricing show an inverse relationship trend  
 
----
